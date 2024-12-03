@@ -14,6 +14,6 @@ Steps to run:
 How does it work?
 1. Upload interviewee's cv file
 2. Enter company's job description
-3. Hang on tight, the system will generate a report. You may download the report for reference.
+3. sit back, relax, the system will generate a report. You may download the report for reference.
 
 Happy matching!
